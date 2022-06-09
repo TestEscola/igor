@@ -1,0 +1,57 @@
+.igor{
+height: 100px;
+background-color: aqua;
+border-radius: 30px;
+box-shadow: 5px 5px 20px rgba(0,0,0,0.5);
+}
+.oprofOliverelegal{
+list-style: none;
+display: flex;
+justify-content: right;
+padding: 40px;
+}
+
+nav ul li{
+margin: 20px;
+
+
+}
+
+
+
+.beigonkkkkkkkkk{ 
+    width: 300px;
+    height: 600px;
+     background-color: aquamarine;
+     border-radius: 30px;
+     box-shadow: 5px 5px 20px rgba(0,0,0,0.5);
+     position: relative;
+    top: 20px;
+    float: right;
+
+
+
+}
+
+
+
+
+body{
+    background-image: url(https://www.bing.com/images/search?view=detailV2&ccid=1xdtUL3N&id=A8D2E8FE876075E7B81852B63C296BE275F24B74&thid=OIP.1xdtUL3NQwHmemqlQ7BFQQHaE8&mediaurl=https%3a%2f%2fwww.simbolos.com.br%2fwp-content%2fuploads%2f2020%2f06%2fsh_bandeira-do-brasil_104281997.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d7176d50bdcd4301e67a6aa543b04541%3frik%3ddEvydeJrKTy2Ug%26pid%3dImgRaw%26r%3d0&exph=667&expw=1000&q=brasil&simid=608004899446018243&FORM=IRPRST&ck=C9135D923C6BB843A3625FFF95D282BF&selectedIndex=0);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.caixa2{
+position: absolute;
+left: 300px;
+top: 100px;
+color: aliceblue;
+font-size: x-large;
+
+
+
+
+
+}
+
+
